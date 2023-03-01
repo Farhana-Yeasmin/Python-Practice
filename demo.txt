@@ -1,0 +1,7 @@
+Date: 2023-03-01
+Author: Farhana
+Description: This is a demo file.
+
+OKay, so this is a simple entry.
+I am going to write a few more lines here.
+For the sake of this video, let's pretend this log file is thousands and thousands of lines....okay?
