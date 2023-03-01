@@ -1,4 +1,5 @@
 import itertools
+# 
 
 """
 Here using iterator is usefull because without loading the entire contents of that file into memory we can work like this
